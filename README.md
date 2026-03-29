@@ -5,8 +5,8 @@ https://gihyo.jp/book/2026/978-4-297-15354-0
 ## ディレクトリ構造
 ```
 clade-practical-introduction
-├── 1 # 章の数字
-├── 2
-├── 3
+├── chapterN # 章の数字
+├── chapterN+1
+├── chapterN+2
 └── README.md
 ```
